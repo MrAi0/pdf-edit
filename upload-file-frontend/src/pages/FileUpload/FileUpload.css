@@ -1,0 +1,12 @@
+.Main {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    height: 100%;
+}
+
+.ButtonContainer {
+    display: flex;
+    gap: 1rem;
+}
